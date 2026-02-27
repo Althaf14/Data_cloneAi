@@ -1,0 +1,4 @@
+// The Test Table
+digraph {
+	A [label="Test Node"]
+}
